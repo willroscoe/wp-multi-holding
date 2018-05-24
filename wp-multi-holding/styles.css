@@ -1,0 +1,18 @@
+/*
+Theme Name: wp-multi-holding
+Theme URI: https://github.com/willroscoe
+Author: Will Roscoe
+Author URI: https://github.com/willroscoe
+Description: Holding page for the main site on a multisite wordpress install
+Version: 1.0
+License: The Unlicense
+License URI: http://unlicense.org
+Text Domain: wpmultiholding
+*/
+
+.logo {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
